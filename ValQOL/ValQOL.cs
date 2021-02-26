@@ -3,7 +3,7 @@ using HarmonyLib;
 
 namespace ValQOL
 {
-    [BepInPlugin("org.remmiz.plugins.valqol", "Valheim Hard Mode", "0.0.1.0")]
+    [BepInPlugin("org.remmiz.plugins.valqol", "ValQOL", "0.0.1.0")]
     public class ValQOL : BaseUnityPlugin
     {
         void Awake()
