@@ -33,6 +33,8 @@ namespace ValQOL
                 UnityEngine.Object.Destroy(___m_dragGo);
                 ___m_dragGo = null;
 
+                Player.m_localPlayer.Message(MessageHud.MessageType.TopLeft, "Destroyed " + ___m_dragAmount + " " + ___m_dragItem.m_shared.m_name, 0, (Sprite)null);
+
                 // Refresh crafting panel
                 __instance.GetType().GetMethod("UpdateCraftingPanel", BindingFlags.NonPublic | BindingFlags.Instance).Invoke(__instance, new object[] { false });
             }

@@ -86,7 +86,9 @@
     <Compile Include="CraftingStationRange.cs" />
     <Compile Include="Configuration.cs" />
     <Compile Include="DeleteItems.cs" />
+    <Compile Include="InteractWhileBuilding.cs" />
     <Compile Include="ItemsWhileSwimming.cs" />
+    <Compile Include="ShowChatOnMessage.cs" />
     <Compile Include="UnlockDLC.cs" />
     <Compile Include="ValQOL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

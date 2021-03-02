@@ -5,8 +5,10 @@ ValQOL is a Valheim mod that includes low-impact, client-side only QoL changes.
 
 * Allow usage of items while swimming
 * Ability to delete items by picking them up and hitting DEL key (this is not reversible and there is no confirmation!)
+* Allow object interactions while building
 * Increased use range of crafting stations
 * Enable all DLC content
+* Show chat window when recieving message
 
 ## Installation
 
