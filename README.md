@@ -13,6 +13,6 @@ ValQOL is a Valheim mod that includes low-impact, client-side only QoL changes.
 ## Installation
 
 1. Backup your characters and worlds! Copy `C:\Users\<username>\AppData\LocalLow\IronGate\Valheim` somewhere safe just in case
-2. Install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
+2. Install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/) (v5.4.602 or higher)
 3. Download latest release and extract `ValQOL.dll` to `...\BepInEx\plugins` folder created from previous step
 4. Enjoy!
